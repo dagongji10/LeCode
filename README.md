@@ -1,4 +1,4 @@
-## Leetcode solved by c++
+## Leetcode solved by python
 
 ------
 ### 2 pro/day
