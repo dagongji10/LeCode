@@ -20,4 +20,5 @@
 - [x] **15. 3Sum  三数之和**
 - [x] 16. 3Sum Closest  最接近的三数之和
 - [x] 17. Letter Combinations of a Phone Number  电话号码的字母组合
-- [ ] **18. 4Sum  四数之和**
+- [x] **18. 4Sum  四数之和**
+- [x] 19. Remove Nth Node From End of List  删除链表的倒数第N个节点
