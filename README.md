@@ -22,3 +22,6 @@
 - [x] 17. Letter Combinations of a Phone Number  电话号码的字母组合
 - [x] **18. 4Sum  四数之和**
 - [x] 19. Remove Nth Node From End of List  删除链表的倒数第N个节点
+- [x] **20. Valid Parentheses  有效的括号**
+- [x] 21. Merge Two Sorted Lists  合并两个有序链表
+- [x] 22.
