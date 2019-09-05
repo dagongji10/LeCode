@@ -24,4 +24,4 @@
 - [x] 19. Remove Nth Node From End of List  删除链表的倒数第N个节点
 - [x] **20. Valid Parentheses  有效的括号**
 - [x] 21. Merge Two Sorted Lists  合并两个有序链表
-- [x] 22.
+- [x] 22. Generate Parentheses  括号生成
