@@ -25,3 +25,5 @@
 - [x] **20. Valid Parentheses  有效的括号**
 - [x] 21. Merge Two Sorted Lists  合并两个有序链表
 - [x] 22. Generate Parentheses  括号生成
+- [d] 23. Merge k Sorted Lists  合并K个排序链表
+- [x] 24. Swap Nodes in Pairs  两两交换链表中的节点
