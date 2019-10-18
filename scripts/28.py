@@ -18,3 +18,31 @@ KMP算法：
                                                                    如果P[next[k]]==P[j],也就是说P[0~(k-1)]的首尾存在一个最长重复字串,那么P[(j-k)~(j-1)]的首尾也存在,也就是说P[0~(k-1)]的首与P[(j-k)~(j-1)]的尾相等,此时next[j+1]=next[k]+1
                                                                    如果P[next[k]]!=P[j],那就继续寻找下一个,P[next[next[k]]]
 '''
+
+class Solution(object):
+    def strStr(self, haystack, needle):
+        """
+        :type haystack: str
+        :type needle: str
+        :rtype: int
+        """
+        pass
+    
+    def get_next(self, p):
+        if p=='':
+            return []
+        
+        k,j = -1,0
+        next_ = [k]
+        while(j<len(p)-1):
+            if k==-1 or p[k]==p[j]:
+                k += 1
+                j += 1
+                next_.append(k)
+            else:
+                k = next_[k]
+        return next_
+    
+s = 'aabcaabc'
+print(Solution().get_next(s))
+                
