@@ -30,3 +30,4 @@
 - [ ] **25. Reverse Nodes in k-Group  K 个一组翻转链表**
 - [x] 26. Remove Duplicates from Sorted Array   删除排序数组中的重复项
 - [x] 27. Remove Element  移除元素
+- [x] 28. Implement strStr()  实现 strStr()(字符串匹配，KMP)
