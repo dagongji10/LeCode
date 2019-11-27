@@ -25,9 +25,9 @@
 - [x] **20. Valid Parentheses  有效的括号**
 - [x] 21. Merge Two Sorted Lists  合并两个有序链表
 - [x] 22. Generate Parentheses  括号生成
-- [ ] **23. Merge k Sorted Lists  合并K个排序链表**
+- [ ] 23. Merge k Sorted Lists  合并K个排序链表
 - [x] 24. Swap Nodes in Pairs  两两交换链表中的节点
-- [ ] **25. Reverse Nodes in k-Group  K 个一组翻转链表**
+- [ ] 25. Reverse Nodes in k-Group  K 个一组翻转链表
 - [x] 26. Remove Duplicates from Sorted Array   删除排序数组中的重复项
 - [x] 27. Remove Element  移除元素
 - [x] 28. Implement strStr()  实现 strStr()(字符串匹配，KMP)
