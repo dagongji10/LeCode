@@ -38,3 +38,5 @@
 - [x] 33. Search in Rotated Sorted Array  搜索旋转排序数组
 - [x] **34. Find First and Last Position of Element in Sorted Array  在排序数组中查找元素的第一个和最后一个位置**
 - [x] 35. Search Insert Position  搜索插入位置
+- [x] 36. Valid Sudoku  有效的数独
+- [ ] 37. Sudoku Solver  解数独
