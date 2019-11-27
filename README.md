@@ -32,6 +32,9 @@
 - [x] 27. Remove Element  移除元素
 - [x] 28. Implement strStr()  实现 strStr()(字符串匹配，KMP)
 - [x] **29. Divide Two Integers  两数相除**
-- [x] **30. Next Permutation  下一个排列**
+- [ ] 30. Substring with Concatenation of All Words  串联所有单词的子串
+- [x] **31. Next Permutation  下一个排列**
+- [ ] 32. Longest Valid Parentheses  最长有效括号
 - [x] 33. Search in Rotated Sorted Array  搜索旋转排序数组
+- [x] **34. Find First and Last Position of Element in Sorted Array  在排序数组中查找元素的第一个和最后一个位置**
 - [x] 35. Search Insert Position  搜索插入位置
