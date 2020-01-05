@@ -40,3 +40,5 @@
 - [x] 35. Search Insert Position  搜索插入位置
 - [x] 36. Valid Sudoku  有效的数独
 - [ ] 37. Sudoku Solver  解数独
+- [ ] 38.
+- [ ] 39. Combination Sum  数组总和
