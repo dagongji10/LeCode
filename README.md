@@ -1,8 +1,7 @@
 ## Leetcode solved by python
 
 ------
-### 2 pro/day : 19/08/14
-### solved 18/329
+### solved 36/300
 - [x] 1. Two Sum  两数之和
 - [x] 2. Add Two Numbers  两数相加
 - [x] 3. Longest Substring Without Repeating Characters  无重复字符的最长子串
@@ -42,3 +41,5 @@
 - [ ] 37. Sudoku Solver  解数独
 - [x] 38. Count and Say  外观数列
 - [x] 39. **Combination Sum  数组总和**
+- [x] 40. Combination Sum II  组合总和 II
+- [x] 41. First Missing Positive  缺失的第一个正数
