@@ -1,7 +1,7 @@
 ## Leetcode solved by python
 
 ------
-### solved 37/300
+### solved 39/300
 - [x] 1. Two Sum  两数之和
 - [x] 2. Add Two Numbers  两数相加
 - [x] 3. Longest Substring Without Repeating Characters  无重复字符的最长子串
@@ -44,3 +44,7 @@
 - [x] 40. Combination Sum II  组合总和 II
 - [x] 41. First Missing Positive  缺失的第一个正数
 - [x] **42. Trapping Rain Water  接雨水**
+- [x] 43. Multiply Strings  字符串相乘
+- [ ] 44. Wildcard Matching  通配符匹配
+- [ ] 45. Jump Game II  跳跃游戏 II
+- [x] 46. Permutations  全排列
