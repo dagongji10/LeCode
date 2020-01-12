@@ -48,3 +48,5 @@
 - [ ] 44. Wildcard Matching  通配符匹配
 - [ ] 45. Jump Game II  跳跃游戏 II
 - [x] 46. Permutations  全排列
+- [x] **47. Permutations II  全排列 II**
+- [x] **48. Rotate Image  旋转图像**
