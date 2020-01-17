@@ -1,7 +1,10 @@
 ## Leetcode solved by python
 
 ------
-### solved 39/300
+### hard：  4
+### middle：27
+### easy：  12
+### solved：43/300
 - [x] 1. Two Sum  两数之和
 - [x] 2. Add Two Numbers  两数相加
 - [x] 3. Longest Substring Without Repeating Characters  无重复字符的最长子串
@@ -51,3 +54,4 @@
 - [x] **47. Permutations II  全排列 II**
 - [x] **48. Rotate Image  旋转图像**
 - [x] 49. Group Anagrams  字母异位词分组
+- [x] **50. Pow(x, n)  计算Pow(x,n)**
