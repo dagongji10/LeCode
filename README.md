@@ -53,3 +53,5 @@
 - [x] 49. Group Anagrams  字母异位词分组
 - [x] **50. Pow(x, n)  计算Pow(x,n)**
 - [x] **53. Maximum Subarray  最大子序和**
+- [x] 54. Spiral Matrix  螺旋矩阵
+- [x] **55. Jump Game  跳跃游戏**
