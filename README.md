@@ -1,7 +1,7 @@
 ## Leetcode solved by python
 
 ------
-#### hard/middle/easy：4/27/12
+#### easy/middle/hard：13/30/4
 - [x] 1. Two Sum  两数之和
 - [x] 2. Add Two Numbers  两数相加
 - [x] 3. Longest Substring Without Repeating Characters  无重复字符的最长子串
@@ -57,3 +57,4 @@
 - [x] **53. Maximum Subarray  最大子序和**
 - [x] 54. Spiral Matrix  螺旋矩阵
 - [x] **55. Jump Game  跳跃游戏**
+- [x] 56. Merge Intervals  合并区间
