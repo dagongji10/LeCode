@@ -1,7 +1,7 @@
 #### LeetCode Solved by Python
 
 ------
-#### easy/middle/hard：13/30/4
+#### easy/middle/hard：15/36/5
 - [x] 1. Two Sum  两数之和
 - [x] 2. Add Two Numbers  两数相加
 - [x] 3. Longest Substring Without Repeating Characters  无重复字符的最长子串
@@ -62,6 +62,10 @@
 - [x] 58. 最后一个单词的长度
 - [x] 59. 螺旋矩阵 II
 - [x] 60. **排列排序**
+- [ ] 61. 旋转链表
+- [x] 62. 不同路径 I
+- [x] 63. 不同路径 II
+- [ ]  64.
 
 #### 剑指offer
 
